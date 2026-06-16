@@ -25,14 +25,14 @@
     "estado": "OK"
   },
   "AN": {
-    "stock": 0,
+    "stock": 51,
     "minimo": 10,
-    "estado": "REPOSICI?N"
+    "estado": "OK"
   },
   "PDA": {
     "stock": 0,
     "minimo": 10,
     "estado": "REPOSICI?N"
   },
-  "_actualizado": "2026-06-16T18:31:07.333Z"
+  "_actualizado": "2026-06-16T18:32:11.843Z"
 }
