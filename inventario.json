@@ -5,7 +5,7 @@
     "estado": "OK"
   },
   "TSA50%": {
-    "stock": 40,
+    "stock": 30,
     "minimo": 20,
     "estado": "OK"
   },
@@ -34,5 +34,5 @@
     "minimo": 10,
     "estado": "REPOSICI?N"
   },
-  "_actualizado": "2026-06-16T18:35:46.010Z"
+  "_actualizado": "2026-06-16T18:36:14.699Z"
 }
