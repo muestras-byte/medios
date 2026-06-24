@@ -25,7 +25,7 @@
     "estado": "OK"
   },
   "AN": {
-    "stock": 47,
+    "stock": 46,
     "minimo": 10,
     "estado": "OK"
   },
@@ -34,5 +34,5 @@
     "minimo": 10,
     "estado": "REPOSICI?N"
   },
-  "_actualizado": "2026-06-24T19:54:52.896Z"
+  "_actualizado": "2026-06-24T19:57:13.483Z"
 }
