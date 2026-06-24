@@ -15,7 +15,7 @@
     "estado": "REPOSICI?N"
   },
   "KING B": {
-    "stock": 79,
+    "stock": 73,
     "minimo": 10,
     "estado": "OK"
   },
@@ -34,5 +34,5 @@
     "minimo": 10,
     "estado": "REPOSICI?N"
   },
-  "_actualizado": "2026-06-24T19:53:31.333Z"
+  "_actualizado": "2026-06-24T19:53:43.604Z"
 }
