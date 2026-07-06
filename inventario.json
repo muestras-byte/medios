@@ -1,6 +1,6 @@
 {
   "PDAc": {
-    "stock": 90,
+    "stock": 84,
     "minimo": 20,
     "estado": "OK"
   },
@@ -34,5 +34,5 @@
     "minimo": 10,
     "estado": "REPOSICI?N"
   },
-  "_actualizado": "2026-07-06T20:29:09.376Z"
+  "_actualizado": "2026-07-06T20:29:32.517Z"
 }
