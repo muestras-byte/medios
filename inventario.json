@@ -1,13 +1,13 @@
 {
   "PDAc": {
-    "stock": 60,
-    "minimo": 20,
-    "estado": "OK"
-  },
-  "TSA50%": {
-    "stock": 8,
+    "stock": 5,
     "minimo": 20,
     "estado": "REPOSICI?N"
+  },
+  "TSA50%": {
+    "stock": 40,
+    "minimo": 20,
+    "estado": "OK"
   },
   "TSA100%": {
     "stock": 0,
@@ -15,17 +15,17 @@
     "estado": "REPOSICI?N"
   },
   "KING B": {
-    "stock": 73,
+    "stock": 43,
     "minimo": 10,
     "estado": "OK"
   },
   "CC": {
-    "stock": 29,
+    "stock": 19,
     "minimo": 10,
     "estado": "OK"
   },
   "AN": {
-    "stock": 40,
+    "stock": 22,
     "minimo": 10,
     "estado": "OK"
   },
@@ -34,5 +34,5 @@
     "minimo": 10,
     "estado": "REPOSICI?N"
   },
-  "_actualizado": "2026-07-09T14:34:29.717Z"
+  "_actualizado": "2026-07-15T13:07:02.579Z"
 }
