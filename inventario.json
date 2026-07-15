@@ -20,9 +20,9 @@
     "estado": "OK"
   },
   "CC": {
-    "stock": 19,
+    "stock": 9,
     "minimo": 10,
-    "estado": "OK"
+    "estado": "REPOSICI?N"
   },
   "AN": {
     "stock": 22,
@@ -34,5 +34,5 @@
     "minimo": 10,
     "estado": "REPOSICI?N"
   },
-  "_actualizado": "2026-07-15T13:07:02.579Z"
+  "_actualizado": "2026-07-15T13:07:59.833Z"
 }
