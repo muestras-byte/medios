@@ -1,8 +1,8 @@
 {
   "PDAc": {
-    "stock": 5,
+    "stock": 105,
     "minimo": 20,
-    "estado": "REPOSICI?N"
+    "estado": "OK"
   },
   "TSA50%": {
     "stock": 40,
@@ -25,14 +25,14 @@
     "estado": "REPOSICI?N"
   },
   "AN": {
-    "stock": 0,
+    "stock": 20,
     "minimo": 10,
-    "estado": "REPOSICI?N"
+    "estado": "OK"
   },
   "PDA": {
     "stock": 0,
     "minimo": 10,
     "estado": "REPOSICI?N"
   },
-  "_actualizado": "2026-07-15T13:08:58.183Z"
+  "_actualizado": "2026-07-23T14:20:35.283Z"
 }
